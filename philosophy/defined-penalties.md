@@ -15,7 +15,7 @@ Multiple simultaneous Game Loss penalties result in a single issued Game Loss. I
 
 #### Match Loss
 
-Match Loss penalties are severe and should be reserved only for when the integrity of the match has been compromised. Match losses can be applied both to a current match or a match that is yet to be played. A match loss issued during a match applies to the ongoing match, otherwise, if no match is currently being played, the match loss is applied to that player’s next match.
+Match Loss penalties are severe and should be reserved only for when the integrity of the match has been compromised. Match losses can be applied either to a current match or a match that is yet to be played. A match loss issued during a match applies to the ongoing match, otherwise, if no match is currently being played, the match loss is applied to that player’s next match.
 
 
 
