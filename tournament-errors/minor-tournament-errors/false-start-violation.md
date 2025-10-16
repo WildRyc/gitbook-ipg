@@ -6,7 +6,7 @@
 
 
 
-**Definitions and Philosophy:** When a player fails to follow correct tournament procedures at the beginning of the round. Specifically, this covers when players begin the first game of the match (they have placed a Lv 0 Champion onto the field and drawn an opening hand) before the round timber has begun.&#x20;
+**Definitions and Philosophy:** When a player fails to follow correct tournament procedures at the beginning of the round. Specifically, this covers when players begin the first game of the match (they have placed a Lv 0 Champion onto the field and drawn an opening hand) before the round timer has begun.&#x20;
 
 The round timer exists to provide all players with both an everpresent clock to maintain a timely pace of play in addition to serving as a fair constraint for all players. Abridging tournament procedures to gain more time in the round may give an unfair advantage to some competitors and strategies. To ensure that all players compete under a fair environment, the round time and start of round time should be respected. It is only acceptable to being manipulating cards to the extent that it is only the spirit champion card that has been put into play as long as no further cards have been seen or considered.
 
