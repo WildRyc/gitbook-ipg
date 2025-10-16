@@ -8,7 +8,7 @@ Warnings are the least severe penalty a judge can apply to a player. These penal
 
 #### Game Loss
 
-A Game Loss issued to a player immediately causes that player to lose the current game or a game that is yet to be played. An issued Game Loss penalty will be reported as a loss during round reporting and determining a match winner. Players losing a game via this penalty do get to choose whether they go first or second in the next game of the current match. Neither player may sideboard if this penalty is issued before the first match game.
+A Game Loss issued to a player immediately causes that player to lose the current game or the next game that is yet to be played. An issued Game Loss penalty will be reported as a loss during round reporting and determining a match winner. Players losing a game via this penalty do get to choose whether they go first or second in the next game of the current match. Neither player may sideboard if this penalty is issued before the first match game.
 
 Multiple simultaneous Game Loss penalties result in a single issued Game Loss. If each player were to receive a Game Loss penalty, the match score will not be affected but the losses are still recorded.\
 
